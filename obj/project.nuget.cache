@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBn/PvSVMM6P0/WG5vgnlSC8eYu7ljTDLkSaFtESPsrTsMSOQ17ET2Xa01lV3S2K9zjmmLjAvJ6hwRGrWhBZwA==",
+  "success": true,
+  "projectFilePath": "/home/nazar/Рабочий стол/C# курсы/C# курсы.csproj",
+  "expectedPackageFiles": [
+    "/home/nazar/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
